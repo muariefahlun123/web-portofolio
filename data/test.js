@@ -3,45 +3,177 @@ var data = {
   "features": [
     {
       "type": "Feature",
-      "properties": { name: 'testing' },
+      "properties": { name: 'Tesso Nilo National Park' },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          108.98323873119311,
-          0.9348502989845291
+          101.62304576561547,
+          -0.07566173868850742
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {name: 'PT Adaro Energy Tbk'},
+      "properties": {name: 'Buton (Southeast Sulawesi)'},
       "geometry": {
         "type": "Point",
         "coordinates": [
-          112.04822106718767,
-          0.6635746689349165
+          122.98943134167001,
+          -5.294452225298875
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {name: 'Malang (East Java)'},
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.4717349374297,
-          -0.6489130437789483
+          112.63292532598379,
+          -7.962200225286395
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {name: 'Kuningan (West Java)'},
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.77379436547078,
-          1.4965546079042211
+          108.48715519391381,
+          -7.000362083689595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {name: 'North Jakarta'},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.74713794396192,
+          -6.1160806304805755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {name: 'Banjarmasin (South Kalimantan)'},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.59163630241135,
+          -3.310022867756174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {name: 'Rembang, Central Java'},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.33854778798741,
+          -6.705153470411922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {name: 'Lombok island, West Nusa Tenggara'},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.35178094275253,
+          -8.563886001835497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {name: 'Java'},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.09560868442728,
+          -7.427172107653427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {name: 'Sumatera'},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92434781669927,
+          0.19207858961259963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {name: 'Sulawesi'},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.43782109698219,
+          -1.8823347275823048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {name: 'Kalimantan'},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6298985895088,
+          -0.49776054168668454,
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {name: 'Sulawesi'},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.54351163040143,
+          -3.7841830611016176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {name: 'Lahat, South Sumatera'},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.43782109698219,
+          -1.8823347275823048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {name: 'Muara Tebo, Jambi'},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.43406421350814,
+          -1.4913788206540595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {name: 'Gersik, East Java'},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.65400623455704,
+          -7.166444308110761
         ]
       }
     },
@@ -53,303 +185,6 @@ var data = {
         "coordinates": [
           117.033037163796,
           0.38716263083322633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          71.7901611328125,
-          39.01918369029134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.3721923828125,
-          39.13432124527173
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.916259765625,
-          39.23650795487107
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.10302734375,
-          38.9380483825641
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          71.9879150390625,
-          38.50519140240356
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          71.1309814453125,
-          38.655488159953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          71.3067626953125,
-          39.138581990583525
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          71.510009765625,
-          38.77121637244273
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          70.0103759765625,
-          38.43207668538207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          70.46630859375,
-          39.29604824402406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          69.8236083984375,
-          39.02345139405935
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.388916015625,
-          38.35888785866677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.5701904296875,
-          38.6897975322717
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.0208740234375,
-          37.97451499202459
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          71.56494140625,
-          38.238180119798635
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.092041015625,
-          37.965854128749434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.4600830078125,
-          38.565347844885466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.41638183593749,
-          37.58376576718623
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          68.7579345703125,
-          38.976492485539396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          70.565185546875,
-          38.59540719940386
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          70.9442138671875,
-          38.69408504756833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          71.05957031249999,
-          39.00211029922515
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          70.7574462890625,
-          39.3130504637139
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          69.76318359375,
-          38.11727165830543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          68.994140625,
-          38.74551518488265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          69.093017578125,
-          38.182068998322094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.8006591796875,
-          38.00049145082287
         ]
       }
     }
